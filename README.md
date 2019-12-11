@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/melissabaxendale/MyFirstDevOpsProject/_apis/build/status/melissa-baxendale.pipelines-java?branchName=master)](https://dev.azure.com/melissabaxendale/MyFirstDevOpsProject/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
